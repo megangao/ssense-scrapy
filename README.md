@@ -1,4 +1,4 @@
-# ssense-scrapy 🕷️
+# ssense-scrapy 👗👚👔
 ssense Scrapy spider to JSON
 
 ## Fields 
@@ -11,4 +11,7 @@ ssense Scrapy spider to JSON
 ## To-Do ✅
 - [ ] automatically find and move to next page
 - [ ] integrate with Discord Bot
+  - [ ] notify new items
   - [ ] notify price drops
+  - [ ] filter by brand
+  - [ ] filter by price
